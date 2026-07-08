@@ -1,4 +1,4 @@
-# Freeonestube Downloader (Browser Extension)
+# Freeonestube Video Downloader (Browser Extension)
 
 > Download FreeOnes Tube videos in your browser. Detect playable media, click the player button, and save with 3 free downloads.
 
@@ -14,7 +14,7 @@ The extension scans FreeOnes Tube video pages for direct MP4 URLs and HLS-style 
 
 ## Links
 
-- :rocket: Get it here: [Freeonestube Downloader](https://serp.ly/freeonestube-downloader)
+- :rocket: Get it here: [Freeonestube Downloader](https://serp.ly/freeonestube-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/freeonestube-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/freeonestube-downloader/issues)
@@ -125,7 +125,7 @@ The 3 free trial downloads are per device. You can purchase a paid license for u
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/freeonestube-downloader](https://serp.ly/freeonestube-downloader)
+Start here: [https://serp.ly/freeonestube-downloader?via=github](https://serp.ly/freeonestube-downloader?via=github)
 
 ## Installation Instructions
 
